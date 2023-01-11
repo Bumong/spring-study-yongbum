@@ -25,7 +25,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 // 해당 클래스가 Entity 클래스임을 명시
-// 인자로 ETITY의 이름을 지정 할 수 있음
+// 인자로 ENTITY의 이름을 지정 할 수 있음
 @Entity(name="MEMBER")
 // 해당 Entity 클래스와 데이터베이스 table을
 // 인자로 지정한 이름으로 매핑 
